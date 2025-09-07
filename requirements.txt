@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+python-dotenv
+streamlit
+chromadb
+sentence-transformers
+loguru
+requests
+openai
